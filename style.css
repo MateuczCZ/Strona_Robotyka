@@ -9,7 +9,7 @@
     }
 body
 {
-    background-image: url(/Strona_Robotyka/images/tlo.jpg);
+    background: url(/Strona_Robotyka/images/tlo.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
