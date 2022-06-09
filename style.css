@@ -1,0 +1,50 @@
+
+#wrapper 
+	{
+    float:center;
+    margin: 0 auto;
+    background-image: linear-gradient(#086B8A, #0AC5F2);
+    width: 1200px;
+    border: 2px solid Black;
+    }
+body
+{
+    background-image: url("tło.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+	color: white;
+	font-family: 'Montserrat';
+}
+nav
+{
+	background-color: #086B8A;
+    width :1200px;
+}
+nav a
+	{
+	display: inline-block;
+	width: 28%;
+	padding: 15px 30px;
+	color: black;
+	border: 2px solid black;
+	text-decoration: none;
+	text-align:center;
+	color: white;
+	}
+a.menu:hover 
+	{
+	border: 2px solid white;
+	}
+#naglowek 
+	{
+	float:center;
+	margin: 0 auto;
+	background-image: linear-gradient(#0AC5F2, #086B8A);
+	width: 1200px;
+	border: 2px solid Black;
+	}
+b
+{
+	color:black;
+}
